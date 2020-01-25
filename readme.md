@@ -1,13 +1,13 @@
 ## yujiehe-gitignore
 
-😀 personal template for sustainable programming and repo maintaining !
+😀 personal `.gitignore` template for sustainable programming and repo maintaining !
 
 ### To-do
 
 - [x] adding references
 - [x] adding `TeX.gitignore`
+- [x] adding `Python.gitignore` (including Jupyter-Notebook)
 - [ ] adding `general.gitignore`
-- [ ] adding `Python.gitignore` (including Jupyter-Notebook)
 - [ ] adding `MATLAB.gitignore`
 - [ ] adding `OS.gitignore` (including *Linux* and *Windows* files)
 - [ ] adding `ROS.gitignore`
