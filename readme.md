@@ -9,6 +9,8 @@
 - [ ] adding `general.gitignore`
 - [ ] adding `Python.gitignore` (including Jupyter-Notebook)
 - [ ] adding `MATLAB.gitignore`
+- [ ] adding `OS.gitignore` (including *Linux* and *Windows* files)
+- [ ] adding `ROS.gitignore`
 - [ ] adding `hyj-overall.gitignore`
 - [ ] updating `TeX.gitignore`
 
