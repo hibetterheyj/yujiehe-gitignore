@@ -7,8 +7,8 @@
 - [x] adding references
 - [x] adding `TeX.gitignore`
 - [x] adding `Python.gitignore` (including Jupyter-Notebook)
+- [x] adding `MATLAB.gitignore`
 - [ ] adding `general.gitignore`
-- [ ] adding `MATLAB.gitignore`
 - [ ] adding `OS.gitignore` (including *Linux* and *Windows* files)
 - [ ] adding `ROS.gitignore`
 - [ ] adding `hyj-overall.gitignore`
